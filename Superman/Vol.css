@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+}
+.contenido img{
+    width: 282px;
+    height: 425px;
+}
+
+header{
+    background-color: white;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+}
+.separador1{
+    height: 10px
+}
+
+.separador2{
+    height: 50px;
+}
+
+img{
+    height: 430px;
+}
+
+img{
+    transition: all 0.5s ease;
+    border-style: solid;
+    border-color: white;
+}
+
+img:hover{
+    transform: scale(1.1);
+    border-radius: 150px;
+}
+
+figure {
+    margin: 0;
+    display: inline-block;
+    left: 0%;
+    position: relative;
+    border: 0px solid red;
+}
+
+
+.main figure{
+    width: 50%
+}
+
+.main img{
+    width: 50%;
+}
+
+body{
+    background-image:
+ url(../screenshots/portada.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.main{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25% 25%;
+    height: 5000px;
+}
+.presentacion img{
+    width: 285px;
+}
+
+.contenido{
+    text-align: center;
+    position: relative;
+    width: 85%;
+    left: 15%;
+    z-index: 1000;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+footer{
+    width: 100%;
+    height: 62px;
+}
+
+iframe{
+    width: 20%;
+    height: 1000px;
+    border-style: none;
+    z-index: 2000;
+    position: absolute;
+    align-self: baseline;
+}
+
+body{
+    background-image:
+ url(../screenshots/portada.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: 100;
+}
+
+@media screen and (max-width:0px){
+    body{
+        padding-top: 80px;
+    }
+    
+    .contenedor-menu {
+        margin: 0;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        z-index: 5000;
+    }
+    .btn-menu{
+        display: block;
+    }
+    
+    .contenedor-menu .menu{
+       display: none;
+    }
+}
