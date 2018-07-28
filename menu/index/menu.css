@@ -10,7 +10,7 @@
 
 html{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 12px;
 }
 
 
@@ -36,7 +36,7 @@ ul{
 .container{
 	background: #f3f3f3;
 	position: fixed;
-	height: 10000px;
+	height: 2000px;
 	left: 0;
 	width:200px;
 	top: 0;
