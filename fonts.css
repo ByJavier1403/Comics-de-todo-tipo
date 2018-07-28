@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?66co59');
-  src:  url('fonts/icomoon.eot?66co59#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?66co59') format('truetype'),
-    url('fonts/icomoon.woff?66co59') format('woff'),
-    url('fonts/icomoon.svg?66co59#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?gvm6zf');
+  src:  url('fonts/icomoon.eot?gvm6zf#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?gvm6zf') format('truetype'),
+    url('fonts/icomoon.woff?gvm6zf') format('woff'),
+    url('fonts/icomoon.svg?gvm6zf#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-infinito:before {
+  content: "\e942";
+  color: #fac917;
+}
 .icon-superheroee .path1:before {
   content: "\e901";
   color: rgb(251, 217, 113);
