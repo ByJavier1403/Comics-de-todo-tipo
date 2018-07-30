@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?q9btp6');
-  src:  url('fonts/icomoon.eot?q9btp6#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?q9btp6') format('truetype'),
-    url('fonts/icomoon.woff?q9btp6') format('woff'),
-    url('fonts/icomoon.svg?q9btp6#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?9wrtyf');
+  src:  url('fonts/icomoon.eot?9wrtyf#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?9wrtyf') format('truetype'),
+    url('fonts/icomoon.woff?9wrtyf') format('woff'),
+    url('fonts/icomoon.svg?9wrtyf#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -57,6 +57,105 @@
 }
 .icon-dr-extrano:before {
   content: "\e907";
+}
+.icon-soldado .path1:before {
+  content: "\e945";
+  color: rgb(70, 132, 102);
+}
+.icon-soldado .path2:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(52, 99, 73);
+}
+.icon-soldado .path3:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(250, 158, 62);
+}
+.icon-soldado .path4:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(4, 155, 100);
+}
+.icon-soldado .path5:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(102, 158, 127);
+}
+.icon-soldado .path6:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(92, 153, 121);
+}
+.icon-soldado .path7:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(255, 183, 0);
+}
+.icon-soldado .path8:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: rgb(251, 64, 63);
+}
+.icon-soldado .path9:before {
+  content: "\e94d";
+  margin-left: -1em;
+  color: rgb(250, 158, 62);
+}
+.icon-soldado .path10:before {
+  content: "\e94e";
+  margin-left: -1em;
+  color: rgb(250, 158, 62);
+}
+.icon-soldado .path11:before {
+  content: "\e94f";
+  margin-left: -1em;
+  color: rgb(255, 181, 107);
+}
+.icon-soldado .path12:before {
+  content: "\e950";
+  margin-left: -1em;
+  color: rgb(239, 146, 69);
+}
+.icon-soldado .path13:before {
+  content: "\e951";
+  margin-left: -1em;
+  color: rgb(25, 48, 63);
+}
+.icon-soldado .path14:before {
+  content: "\e952";
+  margin-left: -1em;
+  color: rgb(25, 48, 63);
+}
+.icon-soldado .path15:before {
+  content: "\e953";
+  margin-left: -1em;
+  color: rgb(25, 48, 63);
+}
+.icon-soldado .path16:before {
+  content: "\e954";
+  margin-left: -1em;
+  color: rgb(70, 132, 102);
+}
+.icon-soldado .path17:before {
+  content: "\e955";
+  margin-left: -1em;
+  color: rgb(52, 99, 73);
+}
+.icon-soldado .path18:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(240, 238, 238);
+}
+.icon-soldado .path19:before {
+  content: "\e957";
+  margin-left: -1em;
+  color: rgb(240, 238, 238);
+}
+.icon-soldado .path20:before {
+  content: "\e958";
+  margin-left: -1em;
+  color: rgb(251, 64, 63);
 }
 .icon-carro:before {
   content: "\e943";
