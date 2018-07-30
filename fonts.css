@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?gvm6zf');
-  src:  url('fonts/icomoon.eot?gvm6zf#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?gvm6zf') format('truetype'),
-    url('fonts/icomoon.woff?gvm6zf') format('woff'),
-    url('fonts/icomoon.svg?gvm6zf#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?pniho');
+  src:  url('fonts/icomoon.eot?pniho#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pniho') format('truetype'),
+    url('fonts/icomoon.woff?pniho') format('woff'),
+    url('fonts/icomoon.svg?pniho#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -54,6 +54,9 @@
 }
 .icon-dr-extrano:before {
   content: "\e907";
+}
+.icon-carro:before {
+  content: "\e943";
 }
 .icon-superman:before {
   content: "\e908";
