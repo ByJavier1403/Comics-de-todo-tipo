@@ -104,13 +104,12 @@ footer{
 
 .menu{
     width: 20%;
-    height: 1000px;
+    height: 20000px;
     border-style: none;
     z-index: 2000;
     position: absolute;
     align-self: baseline;
 }
-
 body{
     background-image:
  url(../../screenshots/portada.png);

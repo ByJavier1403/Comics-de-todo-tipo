@@ -1,6 +1,11 @@
 *{
     box-sizing: border-box;
 }
+.contenido img{
+    width: 282px;
+    height: 425px;
+}
+
 header{
     background-color: white;
     border-style: solid;
@@ -61,8 +66,8 @@ body{
 
 .main{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    height: 500px;
+    grid-template-columns: 25% 25% 25% 25% 25%;
+    height: 5000px;
 }
 .presentacion img{
     width: 285px;
@@ -88,7 +93,7 @@ footer{
 
 iframe{
     width: 20%;
-    height: 1000px;
+    height: 20000px;
     border-style: none;
     z-index: 2000;
     position: absolute;
